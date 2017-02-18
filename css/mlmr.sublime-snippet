@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+margin-left: ${1}; margin-right: ${1};${2}
+]]></content>
+  <tabTrigger>mlmr</tabTrigger>
+  <scope>source.css, source.scss</scope>
+</snippet>

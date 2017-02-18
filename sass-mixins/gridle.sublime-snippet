@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+@include gridle(${1:row});
+]]></content>
+  <tabTrigger>gridle</tabTrigger>
+  <scope>source.scss</scope>
+</snippet>
