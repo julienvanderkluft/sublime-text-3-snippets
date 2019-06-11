@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+line-height: rem(${1});
+]]></content>
+  <tabTrigger>lhr</tabTrigger>
+  <scope>source.scss</scope>
+</snippet>

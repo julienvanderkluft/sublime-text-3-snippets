@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[
+<?=ir("${1}")?>
+]]></content>
+  <tabTrigger>ir</tabTrigger>
+</snippet>

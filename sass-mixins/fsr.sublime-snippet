@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+font-size: rem(${1});
+]]></content>
+  <tabTrigger>fsr</tabTrigger>
+  <scope>source.scss</scope>
+</snippet>
